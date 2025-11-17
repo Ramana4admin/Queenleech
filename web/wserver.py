@@ -221,20 +221,20 @@ function s_validate() {
 </script>
 </head>
 <body>
-  <!--© Designed and coded by @KPSBots-Telegram-->
+  <!--© Designed and coded by @PSPKBots-Telegram-->
     <header>
       <div class="brand">
         <img
-          src="https://graph.org/file/1a6ad157f55bc42b548df.png"
+          src="https://envs.sh/VYO.jpg"
           alt="logo"
         />
-        <a href="https://telegram.me/KPSBots">
+        <a href="https://telegram.me/PSPKBots">
           <h2 class="name">Bittorrent Selection</h2>
         </a>
       </div>
       <div class="social">
-        <a href="https://github.com/Tamilupdates/KPSML-X"><i class="fab fa-github"></i></a>
-        <a href="https://telegram.me/KPSBots"><i class="fab fa-telegram"></i></a>
+        <a href="https://github.com/tarnn/KPSML-X"><i class="fab fa-github"></i></a>
+        <a href="https://telegram.me/PSPKBots"><i class="fab fa-telegram"></i></a>
       </div>
     </header>
     <div id="sticks">
@@ -613,20 +613,20 @@ section span{
     </style>
   </head>
 <body>
-   <!--© Designed and coded by @KPSBots-Telegram-->
+   <!--© Designed and coded by @PSPKBots-Telegram-->
     <header>
       <div class="brand">
         <img
-          src="https://graph.org/file/1a6ad157f55bc42b548df.png"
+          src="https://envs.sh/VYO.jpg"
           alt="logo"
         />
-        <a href="https://telegram.me/KPSBots">
+        <a href="https://telegram.me/PSPKBots">
           <h2 class="name">Bittorrent Selection</h2>
         </a>
       </div>
       <div class="social">
-        <a href="https://github.com/Tamilupdates/KPSML-X"><i class="fab fa-github"></i></a>
-        <a href="https://telegram.me/KPSBots"><i class="fab fa-telegram"></i></a>
+        <a href="https://github.com/Sdfe/KPSML-X"><i class="fab fa-github"></i></a>
+        <a href="https://telegram.me/PSPKBots"><i class="fab fa-telegram"></i></a>
       </div>
     </header>
     <section>
@@ -834,8 +834,8 @@ def homepage():
         <h1>KPSML-X</h1>
     </div>
     <div class="content">
-        <img src="https://graph.org/file/0ff9d5e94a070fe4154c0.jpg" class="image">
-        <a href="https://telegram.me/KPSBots" style="text-decoration: none;">
+        <img src="https://envs.sh/VYO.jpg" class="image">
+        <a href="https://telegram.me/PSPKBots" style="text-decoration: none;">
             <button class="button">Join Updates Channel Now</button>
         </a>
     </div>
